@@ -1,2 +1,1 @@
-# dummy-website
-Dummy website
+# Dummy-personal-site
